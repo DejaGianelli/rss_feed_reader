@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    net-http (0.3.2)
+      uri
+    optparse (0.3.1)
+    rexml (3.2.5)
+    rss (0.2.9)
+      rexml
+    uri (0.12.0)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  net-http (~> 0.3.2)
+  optparse (~> 0.3.1)
+  rss (~> 0.2.9)
+  uri (~> 0.12.0)
+
+BUNDLED WITH
+   2.3.26
